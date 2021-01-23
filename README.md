@@ -15,6 +15,6 @@ $ sudo apt-get install gconf-service libasound2 libatk1.0-0 libatk-bridge2.0-0 l
 # instalando o puppeteer com npm
 $ npm install puppeteer
 
-Meu contato
+# Meu contato
 Nome: Alexandre Matos
 Email: alexandre@hibots.com.br
