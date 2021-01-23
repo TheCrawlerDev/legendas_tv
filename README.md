@@ -1,3 +1,5 @@
+obs.: Não adicionei a pasta node_modules, por ser bastante grande e gerada automaticamente após a instalação da biblioteca
+
 # Alguns dos passos abaixo são necessários apenas caso você esteja criando um ambiente completo do zero.
 
 # instale o curl, caso não esteja instalado
@@ -14,6 +16,9 @@ $ sudo apt-get install gconf-service libasound2 libatk1.0-0 libatk-bridge2.0-0 l
 
 # instalando o puppeteer com npm
 $ npm install puppeteer
+
+# instalando o dotenv com npm
+$ npm install dotenv
 
 # Meu contato
 Nome: Alexandre Matos
